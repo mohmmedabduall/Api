@@ -1,0 +1,236 @@
+body{background-color: black;
+  color: white;}
+  
+  img
+  {
+      transition:2s ;
+      overflow: hidden!important;
+  }
+  img:hover
+  {
+      transform: scale(0.5);
+      overflow: hidden !important;
+  }
+  #rowData
+  {
+      overflow: hidden !important;
+  }
+  
+  body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    }
+    header {
+      background-image: url(../image/bg.jpg);
+      background-size: cover;
+      background-position: center center;
+    }
+    nav {
+      padding-left: 3%;
+      position: fixed;
+    }
+    .btn {
+      width: 110px;
+    }
+    
+    .mony {
+      font-size: 23px;
+      text-decoration: none;
+    }
+    
+    .mony:hover {
+      color: #f9004d !important;
+      transition: 1s;
+      letter-spacing: 5px !important;
+    }
+    .adea {
+      transition: 1s;
+    }
+    .adea:hover {
+      color: darkred !important;
+      letter-spacing: 5px !important;
+    }
+    .prgraf {
+      color: rgb(183, 122, 240);
+      letter-spacing: 2px;
+    }
+    
+    .kolm {
+      transition: 1s;
+    }
+    .kolm:hover {
+      transform: scale(1.2);
+    }
+    .content {
+      position: absolute;
+      top: 50%;
+      left: 8%;
+      transform: translateY(-50%);
+    }
+    
+    .newlist form {
+      width: 380px;
+      max-width: 100%;
+      position: relative;
+    }
+  
+  p:hover {
+      color: darkred !important;
+      letter-spacing: 5px !important;
+    }
+   p {
+      color: rgb(183, 122, 240);
+      letter-spacing: 2px;
+      transition: 2s;
+    }
+    
+    h4{
+      transition: 1s;
+    }
+    h4:hover
+    {
+      color: rgb(66, 55, 55);
+    }
+    h1{
+      color: rgba(255, 5, 5, 0.478);
+    }
+  
+  
+  
+  
+  
+
+   
+.inpot{
+  background-color: rgba(61, 44, 44, 0.16) !important;
+  color: white !important;
+  border: none;
+  transition: 0.5s;
+}
+.inpot:focus {
+  background-color: #000 !important;
+  transform: scale(1.2);
+}
+.imgesa {
+  width: 100%;
+}
+#skils {
+  background-color: rgba(0, 0, 0, 0.907);
+}
+.sads {
+  background-color: #000;
+}
+.linnk {
+  font-size: 23px;
+}
+.btna {
+  width: 30px;
+  height: 30px;
+  border: none;
+  background: rgba(255, 0, 0, 0.449);
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  border-radius: 30px;
+}
+
+
+body{background-color: black;
+  color: white;}
+  
+  img
+  {
+      transition:2s ;
+      overflow: hidden!important;
+  }
+  img:hover
+  {
+      transform: scale(0.5);
+      overflow: hidden !important;
+  }
+  #rowData
+  {
+      overflow: hidden !important;
+  }
+  
+  body {
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    }
+    header {
+      background-image: url(../image/bg.jpg);
+      background-size: cover;
+      background-position: center center;
+    }
+    nav {
+      padding-left: 3%;
+      position: fixed;
+    }
+    .btn {
+      width: 110px;
+    }
+    
+    .mony {
+      font-size: 23px;
+      text-decoration: none;
+    }
+    
+    .mony:hover {
+      color: #f9004d !important;
+      transition: 1s;
+      letter-spacing: 5px !important;
+    }
+    .adea {
+      transition: 1s;
+    }
+    .adea:hover {
+      color: darkred !important;
+      letter-spacing: 5px !important;
+    }
+    .prgraf {
+      color: rgb(183, 122, 240);
+      letter-spacing: 2px;
+    }
+    
+    .kolm {
+      transition: 1s;
+    }
+    .kolm:hover {
+      transform: scale(1.2);
+    }
+    .content {
+      position: absolute;
+      top: 50%;
+      left: 8%;
+      transform: translateY(-50%);
+    }
+    
+    .newlist form {
+      width: 380px;
+      max-width: 100%;
+      position: relative;
+    }
+  
+  p:hover {
+      color: darkred !important;
+      letter-spacing: 5px !important;
+    }
+   p {
+      color: rgb(183, 122, 240);
+      letter-spacing: 2px;
+      transition: 2s;
+    }
+    
+    h4{
+      transition: 1s;
+    }
+    h4:hover
+    {
+      color: rgb(66, 55, 55);
+    }
+    h1{
+      color: rgba(255, 5, 5, 0.478);
+    }
+  
+  
+  
+  
+  
